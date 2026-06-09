@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Razzes on Hello Friend NG</title>
+    <link>http://localhost:1313/razze/</link>
+    <description>Recent content in Razzes on Hello Friend NG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <atom:link href="http://localhost:1313/razze/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/razze/peura/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/razze/peura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ratfolk</title>
+      <link>http://localhost:1313/razze/ratfolk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/razze/ratfolk/</guid>
+      <description>&lt;p&gt;I ratfolk sono una razza elusiva che raramente si vede alla luce del sole. Il fatto di vederne così pochi nelle città o in natura, potrebbe portare uno stolto alla convinzione errata che i ratfolk non siano numerosi. La verità è che questa razza preferisce vivere e proliferare lontano da fonti di luce. Resistenti alle malattie e con un senso del gusto perverso, si annidano sotto le grandi città, costruendo tunnel intricati e senza fine con nessun ordine o rigore architettonico, completamente l’opposto dei percorsi sotterranei creati dai laboriosi nani. Nella vita di un ratfolk, l’inganno e le bugie sono all&amp;rsquo;ordine del giorno, questa razza non porta rancore, considerando il tradimento come qualcosa di ordinario che prima o poi accadrà a tutti. Il ratfolk medio passati al massimo un paio di giorni dal torto subito, smette di rimuginarci su e continua con la propria vita.  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Úlfr</title>
+      <link>http://localhost:1313/razze/%C3%BAlfr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/razze/%C3%BAlfr/</guid>
+      <description>&lt;p&gt;Conosciuti anche come i Figli di Eeyr, gli Ulfr sono una razza che è rimasta molto legata alle sue antiche tradizioni. Nonostante le loro origini siano nelle terre di Asya, non è raro trovare i membri appartenenti a questa specie anche molto più a Sud. Gli Ulfr tendono a formare legami molto più delle altre razze: gilde, gruppi d&amp;rsquo;avventura, signori da servire, un dio o anche una famiglia, ogni Ulfr che sia lontano dai branchi dei suoi simili nelle terre natie sente il bisogno di creare qualcosa di simile.&#xA;Gli Ulfr tengono molto al loro onore, e si spingerebbero a tutto pur di recuperare l&amp;rsquo;onore perso.&#xA;Tutte le razze di Anur sanno che la parola data di un Ulfr è imprescindibile.*****&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ursidi</title>
+      <link>http://localhost:1313/razze/ursidi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/razze/ursidi/</guid>
+      <description>&lt;p&gt;**Figli del Gelo  &lt;/p&gt;&#xA;&lt;p&gt;Forti e possenti, i figli di Jorth ( t.dr &amp;ldquo;Madre Terra&amp;rdquo;) vivono seguendo ancora delle tradizioni antichissime, figlie di un tempo ormai dimenticato dalle altre razze. Scolpiti dalla spietata terra in cui vivono, gli Ursidi sono allergici alla debolezza e considerano inferiore chiunque non sia abbastanza forte da vivere senza l&amp;rsquo;aiuto degli altri. Molto competitivi, questo modo di pensare lì porto quasi all&amp;rsquo;estinzione, se non fosse stato per l&amp;rsquo;aiuto degli Ulfr*. Gli Ursidi raramente costruiscono villaggi e ciò che riescono a fare è spesso di architettura scadente e non destinata a durare, ma ciò non li tange, poiché preferiscono affrontare le difficoltà contando solo sulle proprie forze; non soccombendo alle intemperie e alla fame, dimostrano quotidianamente la loro abilità di sopravvivenza.  &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

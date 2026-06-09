@@ -1,0 +1,9 @@
+**I Dragonidi**
+
+Nati dalla stirpe dei draghi, i Dragonidi sono una razza fiera, imponente e profondamente legata all'onore. La loro indole li rende tanto leali e dediti alla giustizia quanto estremamente testardi.
+
+**Il Regno di Dravania** Un tempo esteso su tutte le coste di Anur, Dravania è oggi un regno ridimensionato ma tra i più antichi e orgogliosi. È governato dal Re dei Draghi, carica non ereditaria ma conquistata per merito e rettitudine al servizio di Valmyr. I Dragonidi disprezzano le guerre inique e si schierano sempre dalla parte del giusto, a costo di enormi svantaggi. Sono stati i primi, oltre 1300 anni fa, ad accogliere i Coboldi riconoscendoli come esseri senzienti. Le leggende narrano che un tempo i veri draghi avessero fondato il regno con loro o rispondessero al Re, ma oggi rimangono solo miti.
+
+**Le Antiche Vie Filosofiche**: La società è divisa in rigide dottrine morali tramandate dai draghi antichi. Un Dragonide sceglie una "Via" da seguire ciecamente (es. _la Via della Fiamma_ per l'arte bellica, _la Via dell'Ottone_ per la diplomazia). Questo giustifica perfettamente la loro testardaggine: non cambiano mai idea perché significherebbe tradire la propria Via.
+
+**Aspetto e Natura** Simili a draghi bipedi, superano i due metri di altezza per oltre centotrenta chili di stazza. Possiedono mani e piedi dotati di artigli letali. Le loro scaglie variano dai toni metallici misti (ottone, bronzo, ruggine) a colori puri (rosso, oro, nero) nei clan con una discendenza draconica più forte. Alcuni lignaggi presentano lunghe code e un istinto innato per la manipolazione sociale: un retaggio latente che ricorda i giorni in cui i Dragonidi erano dei possenti conquistatori.

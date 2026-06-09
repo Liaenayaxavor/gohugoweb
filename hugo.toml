@@ -1,6 +1,6 @@
 baseURL = 'https://runaeserver.duckdns.org/'
 languageCode = 'en-us'
-title = 'hello, ser'
+title = 'Anur'
 theme        = "hello-friend-ng"
 pagination.pagerSize = 10
 
@@ -11,7 +11,7 @@ pagination.pagerSize = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
+  homeSubtitle = "Un breve compendio delle terre di Anur"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -43,7 +43,7 @@ pagination.pagerSize = 10
     subtitle  = "A simple theme for Hugo"
 
     [languages.en.params.logo]
-      logoText = "hello friend ng"
+      logoText = "Anur"
       logoHomeLink = "/"
     # or
     #
@@ -52,6 +52,33 @@ pagination.pagerSize = 10
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+  identifier = "compendio"
+  name       = "Compendio"
+  url        = "/posts/compendio"
+  weight = 10
+
+    [[menu.main]]
+    identifier = "divinità"
+    name       = "Divinità"
+    url        = "/posts/Lista delle Divinità"
+    weight = 20
+
+      [[menu.main]]
+    identifier = "razze"
+    name       = "Razze"
+    url        = "/posts/Lista delle Razze"
+    weight = 30
+
+      [[menu.main]]
+    identifier = "regni"
+    name       = "Regni"
+    url        = "/posts/regni"
+    weight = 40
+
+     [[menu.main]]
+  identifier = "blog"
+  name       = "All"
+  url        = "/posts"
+  weight = 50
+
+  ignoreFiles = ["Template/.*"]
